@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="body_mass_index_bmi">ИНДЕКС МАССЫ ТЕЛА (ИМТ)</string>
+    <string name="descripci_n">Oписание :</string>
+    <string name="weight">Macca :</string>
+    <string name="height">Poct :</string>
+    <string name="calculate_bmi">рассчитать bmi</string>
+    <string name="delete_data">удалить данные</string>
+    <string name="bmi">ИМТ :</string>
+    <string name="description">описание :</string>
+    <string name="in_kilograms">В килограммах</string>
+    <string name="in_meters">в метрах</string>
+    <string name="under_weight">ПОД ВЕСОМ</string>
+    <string name="normal_weight">НОРМАЛЬНЫЙ ВЕС</string>
+    <string name="overweight">ИЗБЫТОЧНЫЙ ВЕС</string>
+    <string name="type_1_obesity">ТИП 1 ОЖИРЕНИЕ</string>
+    <string name="type_2_obesity">ТИП 2 ОЖИРЕНИЕ</string>
+    <string name="type_3_obesity">ТИП 3 ОЖИРЕНИЕ</string>
+    <string name="Empty_fields">Вы должны ввести вес и рост</string>
+    <string name="zero_values">Вес и рост должны отличаться от 0</string>
+    <string name="imagesalud">imageSalud</string>
+</resources>

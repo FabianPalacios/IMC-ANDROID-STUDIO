@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="descripci_n">Descripción :</string>
+    <string name="weight">Weight :</string>
+    <string name="height">Height :</string>
+    <string name="calculate_bmi">calculate bmi</string>
+    <string name="delete_data">delete data</string>
+    <string name="bmi">bmi :</string>
+    <string name="description">description :</string>
+    <string name="in_kilograms">In Kilograms</string>
+    <string name="in_meters">In Meters</string>
+    <string name="imagesalud">imageSalud</string>
+</resources>

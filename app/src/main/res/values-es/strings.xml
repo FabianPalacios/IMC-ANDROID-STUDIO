@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="body_mass_index_bmi">índice de masa corporal imc</string>
+    <string name="descripci_n">Descripción :</string>
+    <string name="weight">Peso :</string>
+    <string name="height">Altura :</string>
+    <string name="calculate_bmi">calcular imc</string>
+    <string name="delete_data">eliminar datos</string>
+    <string name="bmi">imc :</string>
+    <string name="description">descripción :</string>
+    <string name="in_kilograms">En Kilogramos</string>
+    <string name="in_meters">En Metros</string>
+    <string name="under_weight">BAJO PESO</string>
+    <string name="normal_weight">PESO NORMAL</string>
+    <string name="overweight">SOBREPESO</string>
+    <string name="type_1_obesity">OBESIDAD TIPO 1</string>
+    <string name="type_2_obesity">OBESIDAD TIPO 2</string>
+    <string name="type_3_obesity">OBESIDAD TIPO 3</string>
+    <string name="Empty_fields">Debe ingresar un peso y una altura</string>
+    <string name="zero_values">El peso y la altura deben ser diferentes de 0</string>
+    <string name="imagesalud">imageSalud</string>
+</resources>
